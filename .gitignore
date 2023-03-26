@@ -1,0 +1,7 @@
+.DS_Store
+*.*~
+### VisualStudioCode ###
+.vscode/*
+
+# ignore book folder
+Nature of code/Books
